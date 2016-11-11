@@ -4,7 +4,8 @@
 ![](https://cloud.githubusercontent.com/assets/22138660/20211871/7a290efa-a83b-11e6-9255-e493e14400ab.png)  
 这里调节了count=10000；  
 运行之后结果，158次之后死锁：  
-![](https://cloud.githubusercontent.com/assets/22138660/20211860/69e5fb2a-a83b-11e6-94cd-431cdb8aa34b.png)  
+![image](https://cloud.githubusercontent.com/assets/20186659/20217330/632c790c-a85a-11e6-8bc8-6c1801cc8147.png)
+
 
 ###synchronized关键字：  
 当他用来秀是一个方法或者一个代码块的时候，能够保证在同一时刻最多只有一个线程执行改代码段；当一个线程访问object的一个synchronized同步代码块或者同步方法时，其他线程对object中所有其他synchronized同步带码或者同步方法的访问将被阻塞。  
