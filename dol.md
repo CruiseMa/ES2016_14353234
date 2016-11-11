@@ -7,6 +7,6 @@
   在这个实验中，在代码中这里定义了一个平方的操作，再乘一个i就达到了3次方的操作。很容易看懂。
   ![p 8ui5 mapnn t yswnrp](https://cloud.githubusercontent.com/assets/22138660/19433295/a5e8c344-9492-11e6-829b-66bd5dbfaf1b.png)
   结果
-  ![](https://cloud.githubusercontent.com/assets/22138660/19432441/2632c4d6-948f-11e6-90e7-40af02392a74.png)
+  ![](https://cloud.githubusercontent.com/assets/20186659/20216768/60672be8-a857-11e6-8f78-026b831338ec.png)
 ###实验感想
   实验过程中，由于文件夹权限问题，导致代码无法直接修改，在删除原来的build文件夹时，也出现了同样的问题。百度了很久找到对应解决方法之后，剩下的问题就很好解决了。
